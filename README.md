@@ -8,8 +8,13 @@ To download, clone this repository:<br>
 ````
 git clone https://github.com/SJTU-MI/APFEforPI.git
 ````
-Try the desired parts of the project:<br>
 
+To run most code in this repository, the relevant anaconda environment can be installed from environment.yml. To build this environment, run：<br>
+````
+cd ./APFEforPI
+conda env create -f environment.yml
+conda activate apfeforpi
+````
 
 ## Datasets
 

@@ -15,6 +15,12 @@ cd ./APFEforPI
 conda env create -f environment.yml
 conda activate apfeforpi
 ````
+However, some large data files are downloaded from external release repositories. To build this environment, run：<br>
+````
+wget -i file.txt
+chmod 777 file.sh
+./file.sh
+````
 
 ## Datasets
 

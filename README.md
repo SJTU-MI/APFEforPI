@@ -4,6 +4,8 @@ Automated physical feature engineering for polymer informatics (APFEforPI), whic
 Automated physical feature engineering for polymer informatics, including descriptor generation, statistical filtering, and machine learning model selection. The obtained optimized descriptors are available for the description of polymers to enable the construction of machine learning models with desired properties. It has been combined with high-throughput calculations to explore high thermal conductivity polymers and to understand the underlying physical mechanisms.  Please refer to our work "Informatics Algorithm-Assisted Exploration of High Thermal Conductivity Amorphous Polymers Using Automated Physical Feature Engineering and Symbolic Regression" for additional details.
 ![workflow](https://github.com/SJTU-MI/APFEforPI/blob/main/workflow.jpg)
 ## Installation
+### Files loading and environment setup
+
 To download, clone this repository:<br>
 ````
 git clone https://github.com/SJTU-MI/APFEforPI.git
@@ -22,6 +24,7 @@ chmod 777 file.sh
 ./file.sh
 ````
 ### Try the desired parts of the project:
+
 
 ## Datasets
 

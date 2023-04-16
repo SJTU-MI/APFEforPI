@@ -8,3 +8,12 @@ To download, clone this repository<br>
 ````
 git clone https://github.com/SJTU-MI/APFEforPI.git
 ````
+## Authors
+
+| **AUTHORS** |Xiang Huang, Shengluo Ma, Shenghong Ju            |
+|-------------|--------------------------------------------------|
+| **VERSION** | V1.0 / April,2023                               |
+| **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
+
+## Attribution
+This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.

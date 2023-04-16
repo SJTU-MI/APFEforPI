@@ -8,6 +8,10 @@ To download, clone this repository<br>
 ````
 git clone https://github.com/SJTU-MI/APFEforPI.git
 ````
+## Datasets
+The training dataset and the screening datasets in this work are described in the following Table. We utilized 1051 polymer data with TC labeled by NEMD simulations as the training dataset A, which was sampled by polymer types from PoLyInfo database. Dataset B was collected manually from the PoLyInfo database and retained after de-duplication with dataset A. Dataset C is a specific dataset, and all polymers are polyimides, which were formed by dianhydride and diamine/diisocyanate from PubChem.
+
+
 ## Authors
 
 | **AUTHORS** |Xiang Huang, Shengluo Ma, Shenghong Ju            |

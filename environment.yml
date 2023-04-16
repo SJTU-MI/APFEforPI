@@ -1,0 +1,25 @@
+name: apfeforpi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - numpy=1.21.2
+  - pandas=0.24.2
+  - scipy=1.10.0
+  - scikit-learn=1.0.2
+  - mlxtend=0.19.0
+  - rdkit=2021.09.3
+  - gensim=4.0.0
+  - matplotlib=3.3.2
+  - seaborn=0.11.2
+  - tqdm=4.62.2
+  - joblib=1.1.0
+  - umap-learn=0.5.3
+  - jupyter
+  - shap=0.40.0
+  - pip:
+    - stk=2021.8.2.0
+    - mordred=1.2.0
+    - setuptools=58.0.4
+    -  minepy

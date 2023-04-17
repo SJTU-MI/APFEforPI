@@ -61,7 +61,7 @@ def ff_descriptor(smiles):
 
 
 if __name__ == '__main__':
-    path="./data/"
+    path="./dataset/"
     filename=sys.argv[1]
     dataframe = pd.read_csv(path+filename)
     SMILES=dataframe['SMILES']

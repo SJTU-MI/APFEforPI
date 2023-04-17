@@ -31,7 +31,7 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 ````
 
 ### Try the desired parts of the project:
-
+**01Des_monomer.py**: Polymer monomer descriptors, including van der Waals volume (VDW), moleculamr weight (MW), monomer length (Monomer_length) and ratio of backbone molecular weight to monomer molecular weight (MW_ratio)<br>
 
 ## Datasets
 

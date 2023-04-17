@@ -33,9 +33,13 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 ### Try the desired parts of the project:
 **01Des_monomer.py**: Polymer monomer descriptors, including van der Waals volume (VDW), moleculamr weight (MW), monomer length (Monomer_length) and ratio of backbone molecular weight to monomer molecular weight (MW_ratio)<br>
 **02Des_Mordred.py**: Descriptors of polymer repetitive unit properties calculated by [Mordred](https://github.com/mordred-descriptor/mordred) software<br>
-**03Des_MD.py**: Force field descriptors extracted from the MD file after GAFF2 force field assignment
-**04Des_merger.py**: Merging polymer descriptors from various sources
-
+**03Des_MD.py**: Force field descriptors extracted from the MD file after GAFF2 force field assignment<br>
+**04Des_merger.py**: Merging polymer descriptors from various sources<br>
+**05Statistical_filtering.ipynb**: Statistical filtering of physical descriptors, including removing descriptors with low variance, feature filtering combined with evaluation of Pearson, Spearman, Distance and maximum information coefficients<br>
+**06RFEforOpt_descriptors.ipynb**: Physical descriptors optimization realized by recursive feature elimination (RFE) with a hyperparameter-optimized random forest model<br>
+**07ML_Opt.ipynb**: Construction of optimized descriptors and machine learning model pairs<br>
+**08Virtual_Screening.ipynb**: High throughput virtual screening of high thermal conductivity polymers in the Dataset B and Dataset C<br>
+**09SHAP_RF.ipynb**: Feature importance analysis based on SHapley Additive exPlanations[(SHAP)](https://github.com/slundberg/shap)<br>
 
 ## Datasets
 

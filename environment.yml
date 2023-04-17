@@ -18,6 +18,7 @@ dependencies:
   - umap-learn=0.5.3
   - jupyter
   - shap=0.40.0
+  - pip
   - pip:
     - stk=2021.8.2.0
     - mordred=1.2.0

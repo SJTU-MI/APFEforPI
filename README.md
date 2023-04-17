@@ -45,7 +45,7 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 
 ## Datasets
 
-The training dataset and the screening datasets in this work are described in the following Table. We utilized 1051 polymer data with calculated TC by NEMD simulations as the training dataset A, which was sampled by polymer types from PoLyInfo database. Dataset B was collected manually from the PoLyInfo database and retained after de-duplication with dataset A. Dataset C is a specific dataset, and all polymers are polyimides, which were formed by dianhydride and diamine/diisocyanate from PubChem.
+The training dataset and the screening datasets in this work are described in the following Table. We utilized 1051 polymer data with calculated TC by nonequilibrium molecular dynamics (NEMD) simulations as the training dataset A, which was sampled by polymer types from PoLyInfo database. Dataset B was collected manually from the PoLyInfo database and retained after de-duplication with dataset A. Dataset C is a specific dataset, and all polymers are polyimides, which were formed by dianhydride and diamine/diisocyanate from PubChem.
 | **Name** | **Description** | **Included in Github** | **Source** |
 |:--------:|:--------:|:--------:|:--------:|
 |**Dataset A**| Benchmark data for ML model training | DatasetA.pkl | Sampling by polymer types from the PoLyInfo database | 

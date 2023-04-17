@@ -39,7 +39,7 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 **06RFEforOpt_descriptors.ipynb**: Physical descriptors optimization realized by recursive feature elimination (RFE) with a hyperparameter-optimized random forest model<br>
 **07ML_Opt.ipynb**: Construction of optimized descriptors and machine learning model pairs<br>
 **08Virtual_Screening.ipynb**: High throughput virtual screening of high thermal conductivity polymers in the Dataset B and Dataset C<br>
-**09SHAP_RF.ipynb**: Feature importance analysis based on SHapley Additive exPlanations([SHAP])(https://github.com/slundberg/shap)<br>
+**09SHAP_RF.ipynb**: Feature importance analysis based on SHapley Additive exPlanations([SHAP](https://github.com/slundberg/shap))<br>
 
 ## Datasets
 

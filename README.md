@@ -33,6 +33,9 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 ### Try the desired parts of the project:
 **01Des_monomer.py**: Polymer monomer descriptors, including van der Waals volume (VDW), moleculamr weight (MW), monomer length (Monomer_length) and ratio of backbone molecular weight to monomer molecular weight (MW_ratio)<br>
 **02Des_Mordred.py**: Descriptors of polymer repetitive unit properties calculated by [Mordred](https://github.com/mordred-descriptor/mordred) software<br>
+**03Des_MD.py**: Force field descriptors extracted from the MD file after GAFF2 force field assignment
+**04Des_merger.py**: Merging polymer descriptors from various sources
+
 
 ## Datasets
 

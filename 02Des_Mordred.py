@@ -17,7 +17,7 @@ def embed(mol):
     return mol_with_H
 
 if __name__ == '__main__':
-    path="./data/"
+    path="./dataset/"
     filename=sys.argv[1]
     mols = pd.read_csv(path+str(filename))
     mols['rdmol'] = mols['SMILES'].map(lambda x: Chem.MolFromSmiles(x))    # drop duplicates based on inchi

@@ -3,7 +3,7 @@
 
 import pandas as pd
 
-path="./data/"
+path="./dataset/"
 file0="Des_monomer.csv"
 file1="Des_MD.csv"
 file2="Des_Mordred.csv"

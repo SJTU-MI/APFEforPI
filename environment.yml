@@ -20,7 +20,7 @@ dependencies:
   - shap=0.40.0
   - pip
   - pip:
-    - stk=2021.8.2.0
-    - mordred=1.2.0
-    - setuptools=58.0.4
+    - stk==2021.8.2.0
+    - mordred==1.2.0
+    - setuptools==58.0.4
     - minepy

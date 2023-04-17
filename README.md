@@ -23,7 +23,14 @@ wget -i file.txt
 chmod 777 file.sh
 ./file.sh
 ````
-to CAL [百度](https://www.baidu.com/)
+To calculate properties such as thermal conductivity of amorphous polymers, an additional [RadonPy](https://github.com/RadonPy/RadonPy) toolkit is required, run：<br>
+````
+conda create -n radonpy python=3.9
+conda activate radonpy
+conda install -c psi4 -c conda-forge rdkit psi4 resp mdtraj matplotlib lammps
+git clone -b main https://github.com/RadonPy/RadonPy.git
+export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
+````
 
 ### Try the desired parts of the project:
 

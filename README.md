@@ -23,6 +23,8 @@ wget -i file.txt
 chmod 777 file.sh
 ./file.sh
 ````
+to CAL [百度](https://www.baidu.com/)
+
 ### Try the desired parts of the project:
 
 

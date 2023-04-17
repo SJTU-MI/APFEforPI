@@ -351,7 +351,7 @@ def cal_MWratio (smi):
 
 
 if __name__ == '__main__':
-    path="./data/"
+    path="./dataset/"
     filename = sys.argv[1]
     df=pd.read_csv(path+str(filename))
     SMI=df["SMILES"]

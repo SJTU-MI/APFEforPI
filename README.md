@@ -48,9 +48,9 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 The training dataset and the screening datasets in this work are described in the following Table. We utilized 1051 polymer data with calculated TC by nonequilibrium molecular dynamics (NEMD) simulations as the training dataset A, which was sampled by polymer types from PoLyInfo database. Dataset B was collected manually from the PoLyInfo database and retained after de-duplication with dataset A. Dataset C is a specific dataset, and all polymers are polyimides, which were formed by dianhydride and diamine/diisocyanate from PubChem.
 | **Name** | **Description** | **Included in Github** | **Source** |
 |:--------:|:--------:|:--------:|:--------:|
-|**Dataset A**| [Benchmark data for ML model training](https://doi.org/10.1038/s41524-022-00906-4) | DatasetA.pkl | Sampling by polymer types from the PoLyInfo database | 
-|**Dataset B**| [PoLyInfo](https://polymer.nims.go.jp/) | DatasetB.pkl | Collected manually from the PoLyInfo database | 
-|**Dataset C**| [Polyimides](https://data.caltech.edu/records/hend5-jzt61)| DatasetC.pkl | Hypothetical polyimides formed by dianhydride and diamine/diisocyanate from PubChem | 
+|**Dataset A**| Benchmark data for ML model training| DatasetA.pkl | [Sampling by polymer types from the PoLyInfo database](https://doi.org/10.1038/s41524-022-00906-4)  | 
+|**Dataset B**| PoLyInfo | DatasetB.pkl | [Collected manually from the PoLyInfo database](https://polymer.nims.go.jp/)  | 
+|**Dataset C**| Polyimides| DatasetC.pkl | [Hypothetical polyimides formed by dianhydride and diamine/diisocyanate from PubChem](https://data.caltech.edu/records/hend5-jzt61) | 
 
 ## Authors
 

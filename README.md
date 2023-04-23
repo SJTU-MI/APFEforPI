@@ -50,7 +50,7 @@ The training dataset and the screening datasets in this work are described in th
 |:--------:|:--------:|:--------:|:--------:|
 |**Dataset A**| Benchmark data for ML model training | DatasetA.pkl | Sampling by polymer types from the PoLyInfo database | 
 |**Dataset B**| PoLyInfo | DatasetB.pkl | Collected manually from the PoLyInfo database | 
-|**Dataset C**| Polyimides | DatasetC.pkl | Hypothetical polyimides formed by dianhydride and diamine/diisocyanate from PubChem | 
+|**Dataset C**| [Polyimides] (https://data.caltech.edu/records/hend5-jzt61)| DatasetC.pkl | Hypothetical polyimides formed by dianhydride and diamine/diisocyanate from PubChem | 
 
 ## Authors
 

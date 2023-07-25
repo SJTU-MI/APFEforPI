@@ -17,6 +17,7 @@ dependencies:
   - joblib=1.1.0
   - umap-learn=0.5.3
   - jupyter
+  - bayesian-optimization
   - shap=0.40.0
   - pip
   - pip:

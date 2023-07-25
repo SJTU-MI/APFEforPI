@@ -42,6 +42,7 @@ export PYTHONPATH=<Path-to-RadonPy>:$PYTHONPATH
 **09SHAP_RF.ipynb**: Feature importance analysis based on SHapley Additive exPlanations([SHAP](https://github.com/slundberg/shap))<br>
 **10TC_Cal.py**: A case for modeling and calculating thermal conductivity of the amorphous polymer, taking polyethylene as an example<br>
 **Des_genrate.sh**: Automatic generation of physical descriptors for polymers. We have provided a demo for verification.<br>
+**Simulation_data.csv**: 104 polymers with simulation data via [RadonPy](https://github.com/RadonPy/RadonPy) software.
 
 ## Datasets
 

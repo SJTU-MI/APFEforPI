@@ -60,5 +60,9 @@ The training dataset and the screening datasets in this work are described in th
 | **VERSION** | V1.0 / April,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
 
+## Publications
+1. X. Huang, S. Ma, Y. Wu, C. Wan, C.Y. Zhao, H. Wang, S. Ju, "High-throughput screening of amorphous polymers with high intrinsic thermal conductivity via automated physical feature engineering," Journal of Materials Chemistry A (2023) [[Link](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta03370h)].
+
+
 ## Attribution
 This work is under BSD-2-Clause License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
